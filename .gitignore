@@ -1,0 +1,30 @@
+# Keil MDK build output
+MDK-ARM/TIM2_Blink/
+MDK-ARM/DebugConfig/
+*.axf
+*.o
+*.crf
+*.d
+*.iex
+*.htm
+*.lst
+*.map
+*.sct
+*.lnp
+*.bak
+*.dep
+
+# Keil local GUI state
+*.uvguix.*
+*.uvoptx.bak
+
+# CubeMX local cache
+.mxproject
+
+# Logs (keep source clean)
+build_log.txt
+flash_log.txt
+
+# OS
+Thumbs.db
+Desktop.ini
